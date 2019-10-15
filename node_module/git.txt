@@ -1,5 +1,0 @@
-git commands and explation:
-
-git add . or * or filenname ------>>>>>>>>>>> it's adding to workspace to staging are
-git commit -m "commit msg"  ----------->>>>>> it's going to staging to local repo
-git push origin master      ...........>>>>>> it's going to centrol repo
